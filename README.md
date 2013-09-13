@@ -12,5 +12,3 @@ and input
 can store each symbol by hash table.  and linked list by default.
 ##How to Test it
   Input make test_linked or test_hash you can test linked list or hash table.
-
-##Code Structure
